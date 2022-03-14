@@ -1,4 +1,4 @@
-module github.com/johnlonganecker/libpostal-rest
+module github.com/eazyfin/libpostal-rest
 
 go 1.16
 
